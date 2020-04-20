@@ -1,4 +1,4 @@
 # Define the variable board below.
-row0 = [" "," "," "]
+board = [" "," "," "]
 row1 = [" "," "," "]
 row2 = [" "," "," "]
